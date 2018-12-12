@@ -18,25 +18,12 @@ cater to the audience. Not to mention, visitors would love to go deeper into the
 *  "Find the right people at the right time"
 *  Record as many parameters as possible.
 *  Record session data.
-*
-*  
-*  
-*
-*
-*
-
-
 
 
 
 ## Implemented
 * A shortcode that can be displayed on a post that displays a form. The form data feeds into a PHPmyAdmin table.
-*  
-*  
-*  
-*  
-
-
+* A footer and header input system. 
 
 
 ## Plans/TODO
@@ -48,24 +35,19 @@ cater to the audience. Not to mention, visitors would love to go deeper into the
 * Collect billing data on members, and if not, create a method to collect necessary data using the least amount
   of fields possible.
 * Google Analytics integration
-*
-*
-*
+
+
 
 ## Maybe / Thinking About Doing
 * Adding an email popup.
     - Email popups can be bad for user experience. Due to them not blending in with the website; creates friction.
-*
-*
+
 
 
 
 ## Marketing Consultants
 * Raj a Google consultant who worked on rakuten/buy.com
-- https://drive.google.com/file/d/1d-XfX--zpM7IK09qzcit3G_pGnDW8nJF/view?usp=sharing
-* 
-*
-*
+- https://drive.google.com/file/d/1d-XfX--zpM7IK09qzcit3G_pGnDW8nJF/view?usp=sharing*
 
 
 
