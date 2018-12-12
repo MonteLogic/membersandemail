@@ -23,7 +23,7 @@ cater to the audience. Not to mention, visitors would love to go deeper into the
 
 ## Implemented
 * A shortcode that can be displayed on a post that displays a form. The form data feeds into a PHPmyAdmin table.
-* A footer and header input system. 
+* A footer and header input system.
 
 
 ## Plans/TODO
@@ -47,7 +47,7 @@ cater to the audience. Not to mention, visitors would love to go deeper into the
 
 ## Marketing Consultants
 * Raj a Google consultant who worked on rakuten/buy.com
-- https://drive.google.com/file/d/1d-XfX--zpM7IK09qzcit3G_pGnDW8nJF/view?usp=sharing*
+    - https://drive.google.com/file/d/1d-XfX--zpM7IK09qzcit3G_pGnDW8nJF/view?usp=sharing*
 
 
 
