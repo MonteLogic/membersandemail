@@ -39,6 +39,9 @@ function addMenu()
 {
   add_menu_page   ("Members and Email", "Members / Email", 4, "members-email-1", "MeMenu" );
   add_submenu_page("members-email-1", "Email List", "Email", 4, "members-email-sub-1", "MeMenuSub1");
+  add_submenu_page("members-email-1", "Tracking", "Tracking Scripts", 4, "tracking-scripts-1", "MeMenuSub2");
+
+
 }
 
 function MeMenu()
@@ -51,6 +54,17 @@ echo "Email List Page" ;
 // update_option creates a new option if one doesn't already exists.
 function MeMenuSub1()
 {
+
+require 'admin/audience.php';
+
+echo $meTable8;
+
+
+
+
+}
+
+function MeMenuSub2(){
 
   if (array_key_exists('submit_scripts_update', $_POST))
   {
@@ -66,9 +80,6 @@ function MeMenuSub1()
    $footer_scripts = get_option('membersemail_footer_scripts', 'none');
 
 
-
-
-
   ?>
     <!-- Update the options once they submit the page.  -->
  <form method="post" action="">
@@ -82,7 +93,19 @@ function MeMenuSub1()
 
 
  <?php
+
+
+
 }
+
+
+
+
+
+
+
+
+
 
 /*
 The following two functions are doing the following:
@@ -136,6 +159,7 @@ add_shortcode('membersemailform','membersemail_form');
 
 // capture this information then recieve it through email
 // Eventaully be able to see the information from the admin side of wordpress
+// Submit inputs to wp_form_submit into the phpMyAdmin.
 function membersemail_form_capture()
 {
     global $post,$wpdb;
