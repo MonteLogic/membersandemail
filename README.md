@@ -36,6 +36,9 @@ cater to the audience. Not to mention, visitors would love to go deeper into the
   of fields possible.
 * Google Analytics integration
 
+* Make assets as fast as possible by using Google web standards.
+
+
 
 
 ## Maybe / Thinking About Doing
