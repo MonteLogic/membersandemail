@@ -48,13 +48,6 @@ cater to the audience. Not to mention, visitors would love to go deeper into the
 
 
 
-## Marketing Consultants
-* Raj a Google consultant who worked on rakuten/buy.com
-    - https://drive.google.com/file/d/1d-XfX--zpM7IK09qzcit3G_pGnDW8nJF/view?usp=sharing*
-
-
-
-
 
 ### Version
 1.0.0
