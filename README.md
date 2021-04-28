@@ -5,7 +5,7 @@ A plugin to collect data, to help draw people into the Wordpress site.
 This plugin is designed to give Wordpress users and creators ability to go deeper into the site.
 It is a good thing for users to go deep into the site because it makes it easier to serve ads and
 cater to the audience. Not to mention, visitors would love to go deeper into the brand of a website.
-And build a profile on the user easier, for eCommerce purposes. An attempt to match in efficacy many 
+And build a profile on the user to sell products and do market research, for eCommerce purposes. An attempt to match in efficacy many 
 Shopify plugins. Also, as a boilerplate to start other Wordpress plugins. 
 
 
